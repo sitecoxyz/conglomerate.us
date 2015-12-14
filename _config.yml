@@ -10,11 +10,11 @@ countdown:
   day: 1
   hour: 0
   minute: 0
-color1: '"#4E395D"'
-color2: '"#827085"'
-color3: '"#8EBE94"'
-color4: '"#CCFC8E"'
-color5: '"#DC5B3E"'
+color1: "#4E395D"
+color2: "#827085"
+color3: "#8EBE94"
+color4: "#CCFC8E"
+color5: "#DC5B3E"
 owner:
   name: siteCo.xyz
   email: xyzsiteco@gmail.com
